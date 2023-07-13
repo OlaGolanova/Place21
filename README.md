@@ -6,5 +6,3 @@
 
 ## Демо
 https://Olagolanova.github.io/Place21/
-
-...проект в работе...
